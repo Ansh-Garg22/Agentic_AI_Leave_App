@@ -1,0 +1,102 @@
+[
+  {
+    "user_id": "user001",
+    "name": "Alice",
+    "role": "manager",
+    "leave_balances": {
+      "casual_leave": 10,
+      "sick_leave": 10,
+      "earned_leave": 15
+    }
+  },
+  {
+    "user_id": "user002",
+    "name": "Bob",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 4,
+      "sick_leave": 3,
+      "earned_leave": 8
+    }
+  },
+  {
+    "user_id": "user003",
+    "name": "Charlie",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 6,
+      "sick_leave": 3,
+      "earned_leave": 2
+    }
+  },
+  {
+    "user_id": "user004",
+    "name": "Diana",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 8,
+      "sick_leave": 1,
+      "earned_leave": 5
+    }
+  },
+  {
+    "user_id": "user005",
+    "name": "Eve",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 3,
+      "sick_leave": 0,
+      "earned_leave": 7
+    }
+  },
+  {
+    "user_id": "user006",
+    "name": "Frank",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 2,
+      "sick_leave": 6,
+      "earned_leave": 5
+    }
+  },
+  {
+    "user_id": "user007",
+    "name": "Grace",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 7,
+      "sick_leave": 6,
+      "earned_leave": 4
+    }
+  },
+  {
+    "user_id": "user008",
+    "name": "Heidi",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 3,
+      "sick_leave": 4,
+      "earned_leave": 4
+    }
+  },
+  {
+    "user_id": "user009",
+    "name": "Ivan",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 1,
+      "sick_leave": 7,
+      "earned_leave": 2
+    }
+  },
+  {
+    "user_id": "user010",
+    "name": "Judy",
+    "role": "employee",
+    "leave_balances": {
+      "casual_leave": 4,
+      "sick_leave": 7,
+      "earned_leave": 6
+    }
+  }
+]

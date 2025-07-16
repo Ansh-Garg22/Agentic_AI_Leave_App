@@ -1,0 +1,74 @@
+[
+  {
+    "request_id": "req_20da46",
+    "user_id": "user002",
+    "leave_type": "sick_leave",
+    "start_date": "2025-07-10",
+    "number_of_days": 2,
+    "reason": "high fever, cough",
+    "status": "pending"
+  },
+  {
+    "request_id": "req_84e599",
+    "user_id": "user005",
+    "leave_type": "sick_leave",
+    "start_date": "2025-06-25",
+    "number_of_days": 2,
+    "reason": "I have High Fever (102)",
+    "status": "approved"
+  },
+  {
+    "request_id": "req_0a9414",
+    "user_id": "user002",
+    "leave_type": "casual_leave",
+    "start_date": "2025-06-25",
+    "number_of_days": 3,
+    "reason": "ABCD",
+    "status": "approved"
+  },
+  {
+    "request_id": "req_3a2d40",
+    "user_id": "user002",
+    "leave_type": "casual_leave",
+    "start_date": "2025-06-25",
+    "number_of_days": 3,
+    "reason": "ABCD",
+    "status": "rejected"
+  },
+  {
+    "request_id": "req_662846",
+    "user_id": "user002",
+    "leave_type": "earned_leave",
+    "start_date": "2025-06-26",
+    "number_of_days": 3,
+    "reason": "ABCD",
+    "status": "rejected"
+  },
+  {
+    "request_id": "req_2dbf67",
+    "user_id": "user004",
+    "leave_type": "sick_leave",
+    "start_date": "2025-06-26",
+    "number_of_days": 2,
+    "reason": "fever",
+    "status": "approved"
+  },
+  {
+    "request_id": "req_f5f71c",
+    "user_id": "user005",
+    "leave_type": "casual_leave",
+    "start_date": "2025-07-09",
+    "number_of_days": 2,
+    "reason": "Trip Planned",
+    "status": "pending"
+  },
+  {
+    "request_id": "req_d647df",
+    "user_id": "user005",
+    "leave_type": "sick_leave",
+    "start_date": "2025-07-17",
+    "number_of_days": 5,
+    "reason": "High fever with covid symptoms",
+    "status": "approved"
+  }
+]
